@@ -23,12 +23,6 @@ This is a machine learning project designed to recognize people from images, sim
     $ sudo python setup.py install
     ```
 
-## Result
-
-![Result Gif](https://user-images.githubusercontent.com/17249362/28241776-a45a5eb0-69b8-11e7-9024-2a7a776914e6.gif)
-
-## Procedure
-
 ### Cloning the Repository
 
 Clone this repository to your local machine:
